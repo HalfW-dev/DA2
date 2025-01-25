@@ -1,0 +1,15 @@
+// /home/usr19/uvm_core/rv32i_header.svh
+// /home/usr19/uvm_core/ibex_pkg.sv
+// /home/usr19/uvm_core/ibex_tracer_pkg.sv
+// /home/usr19/uvm_core/alu.sv
+// /home/usr19/uvm_core/core.sv
+// /home/usr19/uvm_core/fetch.sv
+// /home/usr19/uvm_core/forward.sv
+// /home/usr19/uvm_core/ibex_compressed_decoder.sv
+// /home/usr19/uvm_core/ibex_top_tracing.sv
+// /home/usr19/uvm_core/ibex_tracer.sv
+// /home/usr19/uvm_core/instr_de.sv
+// /home/usr19/uvm_core/mem.sv
+// /home/usr19/uvm_core/regs.sv
+// /home/usr19/uvm_core/rv32i_csr.sv
+// /home/usr19/uvm_core/writeback.sv

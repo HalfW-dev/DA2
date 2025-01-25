@@ -1,0 +1,188 @@
+/home/khai/Core_FInal/debounce.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/debounce.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package debounce_sv_unit
+-- Compiling module debounce
+
+Top level modules:
+	debounce
+
+} {} {}} /home/khai/Core_FInal/forward.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/forward.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module forward
+
+Top level modules:
+	forward
+
+} {} {}} /home/khai/Core_FInal/rv32i_header.svh {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/rv32i_header.svh
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+
+} {} {}} /home/khai/Core_FInal/mem.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/mem.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module mem
+
+Top level modules:
+	mem
+
+} {} {}} /home/khai/Core_FInal/ibex_top_myself.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/ibex_top_myself.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module ibex_top_myself
+
+Top level modules:
+	ibex_top_myself
+
+} {} {}} /home/khai/Core_FInal/ibex_tracer_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/ibex_tracer_pkg.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package ibex_tracer_pkg
+-- Importing package ibex_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} /home/khai/Core_FInal/regs.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/regs.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module regs
+
+Top level modules:
+	regs
+
+} {} {}} /home/khai/Core_FInal/ram_2p.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/ram_2p.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module ram_2p
+
+Top level modules:
+	ram_2p
+
+} {} {}} /home/khai/Core_FInal/prim_ram_2p_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/prim_ram_2p_pkg.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package prim_ram_2p_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} /home/khai/Core_FInal/ibex_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/ibex_pkg.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package ibex_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} /home/khai/Core_FInal/alu.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/alu.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} /home/khai/Core_FInal/bus.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/bus.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module bus
+
+Top level modules:
+	bus
+
+} {} {}} /home/khai/Core_FInal/prim_generic_ram_2p.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/prim_generic_ram_2p.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module prim_generic_ram_2p
+-- Importing package prim_ram_2p_pkg
+
+Top level modules:
+	prim_generic_ram_2p
+
+} {} {}} /home/khai/Core_FInal/writeback.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/writeback.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module writeback
+
+Top level modules:
+	writeback
+
+} {} {}} /home/khai/Core_FInal/rv32i_csr.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/rv32i_csr.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module rv32i_csr
+
+Top level modules:
+	rv32i_csr
+
+} {} {}} /home/khai/Core_FInal/tb.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/tb.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} /home/khai/Core_FInal/gpio.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/gpio.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module gpio
+
+Top level modules:
+	gpio
+
+} {} {}} /home/khai/Core_FInal/ibex_tracer.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/ibex_tracer.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module ibex_tracer
+-- Importing package ibex_tracer_pkg
+-- Importing package ibex_pkg
+
+Top level modules:
+	ibex_tracer
+
+} {} {}} /home/khai/Core_FInal/instr_de.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/instr_de.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module instr_de
+
+Top level modules:
+	instr_de
+
+} {} {}} /home/khai/Core_FInal/prim_ram_2p.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/prim_ram_2p.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module prim_ram_2p
+-- Importing package prim_ram_2p_pkg
+
+Top level modules:
+	prim_ram_2p
+
+} {} {}} /home/khai/Core_FInal/ibex_top_tracing.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/ibex_top_tracing.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module ibex_top_tracing
+-- Importing package ibex_pkg
+
+Top level modules:
+	ibex_top_tracing
+
+} {} {}} /home/khai/Core_FInal/core.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/core.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module core
+
+Top level modules:
+	core
+
+} {} {}} /home/khai/Core_FInal/ibex_compressed_decoder.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/ibex_compressed_decoder.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package ibex_compressed_decoder_sv_unit
+-- Importing package ibex_pkg
+-- Compiling module ibex_compressed_decoder
+
+Top level modules:
+	ibex_compressed_decoder
+
+} {} {}} /home/khai/Core_FInal/fetch.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/fetch.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module fetch
+
+Top level modules:
+	fetch
+
+} {} {}} /home/khai/Core_FInal/pwm.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/pwm.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module pwm
+
+Top level modules:
+	pwm
+
+} {} {}} /home/khai/Core_FInal/pwm_wrapper.sv {1 {vlog -work work -vopt -sv -stats=none /home/khai/Core_FInal/pwm_wrapper.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module pwm_wrapper
+
+Top level modules:
+	pwm_wrapper
+
+} {} {}}
